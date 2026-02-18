@@ -1,0 +1,168 @@
+.container{
+    display:flex;
+    flex:3;
+    height:70vh;
+    width:70%;
+    flex-direction:column;
+    padding:2%;
+
+
+}
+.row1{
+    
+    display:flex;
+    flex:2;
+    align-items: center;
+    justify-content: center;
+
+
+    
+
+}
+.blue{
+    color:aqua;
+    font-size:30px;
+}
+.brown{
+    color:gray;
+    font-size:30px;
+}
+.row2{
+    display:flex;
+    flex:5;
+    padding: 2%;
+    gap:2%;
+
+
+    
+}
+ .cards{
+    display:flex;
+    flex:2;
+    flex-direction:column;
+    border: 1px solid gray;
+   
+} 
+.image{
+    display:flex;
+    flex:1;
+    flex-direction: column;
+
+}
+.image img{
+    height:300px;
+    width:400px;
+    max-width: 300px;
+}
+
+.text1{
+    display:flex;
+    flex:0.7;
+   align-items: center;
+    justify-content: center;
+    
+}
+.title1{
+    /* flex:0.8; */
+    color: aqua;
+    font-size:20px;
+}
+.title2{
+    /* flex:0.2; */
+    color:gray;
+    font-size:20px;
+}
+.content{
+    flex:0.3;
+    flex-direction: column;
+    background-color: aqua;
+    border:1px solid;
+    color:white;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .cards1{
+    display:flex;
+    flex:2;
+    flex-direction:column;
+    border: 1px solid gray;
+   
+} 
+/* .image1{
+    display:flex;
+    flex:1;
+    flex-direction: column;
+
+}
+.image1 img{
+    height:300px;
+    width:300px;
+    max-width: 200px;
+} */
+
+
+
+.text2{
+    flex:0.7;
+    /* flex-direction: column; */
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.title3{
+    /* flex:0.8; */
+    color: aqua;
+    font-size:20px;
+}
+.title4{
+    /* flex:0.2; */
+    color:gray;
+    font-size:20px;
+ }
+ /* .cards2{
+    display:flex;
+    flex:2;
+    flex-direction:column;
+    border: 1px solid gray;
+   
+} 
+.image2{
+    display:flex;
+    flex:1;
+    flex-direction: column;
+
+}
+.image2 img{
+    height:300px;
+    width:300px;
+    max-width: 200px;
+} */ */
+
+
+
+.text3{
+    flex:0.7;
+    /* display:flex; */
+    flex-direction: column;
+    /* color: aqua;
+    font-size:60px;
+    align-items: center;
+    justify-content: center; */
+
+}
+.title3{
+    display:flex;
+    color: aqua;
+    font-size:40px;
+    align-items: center;
+    justify-content: center;
+
+}
+.row3{
+    flex:1;
+    flex-direction: column;
+    padding-bottom: 5px;
+}
