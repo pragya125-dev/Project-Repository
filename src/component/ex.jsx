@@ -3,7 +3,7 @@ function Ex(){
     return(
         <>
         <div className="main">
-            <h1>prajnaj</h1>
+            <h1>prajnaj1234</h1>
         </div>
         </>
     )

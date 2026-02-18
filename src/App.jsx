@@ -6,6 +6,7 @@ import Page2 from './component/Page2'
 function App() {
 
   return (
+    
 <>
 <div className="main1">
   {/* <New/> */}
